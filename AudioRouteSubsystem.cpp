@@ -19,7 +19,7 @@
 #include "SubsystemObjectFactory.h"
 #include "AudioRouteMappingKeys.hpp"
 #include "AudioRoute.hpp"
-#include <AudioCommsAssert.hpp>
+#include <AudioUtilitiesAssert.hpp>
 
 #include <audio_route/audio_route.h>
 

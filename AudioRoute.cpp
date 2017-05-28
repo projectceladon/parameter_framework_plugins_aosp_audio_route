@@ -18,7 +18,7 @@
 #include "AudioRoute.hpp"
 #include "AudioRouteMappingKeys.hpp"
 #include "AudioRouteSubsystem.hpp"
-#include <AudioCommsAssert.hpp>
+#include <AudioUtilitiesAssert.hpp>
 
 #include <audio_route/audio_route.h>
 
